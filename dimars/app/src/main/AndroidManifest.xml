@@ -14,7 +14,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
         <activity android:name="dimars.com.app.MainActivity"
             android:exported="true"></activity>
         <activity android:name="dimars.com.app.SplashScreen"
